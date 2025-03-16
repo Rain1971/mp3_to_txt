@@ -8,7 +8,15 @@ Before running the project, ensure you have the following installed on your Wind
 
 1. **Python**: Make sure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **FFmpeg**: This project requires FFmpeg for audio processing. Follow these steps to install FFmpeg on Windows:
+2. **Clone repo**: clone the repository to pull all the code
+
+```
+git clone https://github.com/Rain1971/mp3_to_txt.git
+```
+
+2. **Create Imput/Output folders**: Create audios and textos folders into the project
+
+4. **FFmpeg**: This project requires FFmpeg for audio processing. Follow these steps to install FFmpeg on Windows:
 
    - Download the FFmpeg executable from the [FFmpeg official website](https://ffmpeg.org/download.html).
    - Extract the downloaded ZIP file to a folder (e.g., `C:\ffmpeg`).

@@ -7,4 +7,5 @@ __pycache__/
 *.xlsx
 *.pdf
 *.mp3
-*.txt
+textos/
+audios/
