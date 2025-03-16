@@ -1,0 +1,10 @@
+
+log/*.*
+config.ini
+venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.pdf
+*.mp3
+*.txt
